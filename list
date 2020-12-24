@@ -1,76 +1,75 @@
-cdn.engine.spotscenered.info
-a.exdynsrv.com
-cdn.izooto.com
-*.px-cdn.net
-*.px-cloud.net
-*.pxchk.net
-*.vo.msecnd.net
-a.omappapi.com
-adbserver.doceree.com
-adpushup.com
-ads-api.twitter.com
-ads.holid.io
-analyti.uber.space
-analytics.console.aws.a2z.com
-analytics.edgekey.net
-analytics.vadian.net
-analytics.write.as
-api-js.mixpanel.com
-api.airbrake.io
-api.appcues.net
-api.b2c.com
-api.btloader.com
-api2.branch.io
-backfills.ph.affinity.com
-bid.glass
-btloader.com
-buysellads.net
-by2.uservoice.com
-cdn-magiclinks.trackonomics.net
-cdn.insurads.com
-cdn.intergient.com
-cdn.paddle.com
-cdn.playwire.com
-cdn.snigelweb.com
-cdn.tech429.com
-cdn.usefathom.com
-client.px-cloud.net
-ev.kck.st
-fast.appcues.com
-gc.zgo.at
-geo-eu.snigelweb.com
-geo-us.snigelweb.com
-ip.prvtx.net
-metrics.readme.io
-pixel-static.spotify.com
-pixel.ampry.com
-pixel.spotify.com
-plus.addkt.com
-prebid-server-production.herokuapp.com
-programmatic.doceree.com
-protected-by.clarium.io
-scripts.simpleanalyticscdn.com
-server.ethicalads.io
-smetrics.cnn.com
-snigelweb-com.videoplayerhub.com
-stats.framasoft.org
-stats.kde.org
-stats.libretexts.org
-stats.nextcloud.com
-trackjs.com
-vortex.data.msn.com
-web.vortex.data.microsoft.com
-web.vortex.data.msn.com
-www.googleoptimize.com
-www.medtargetsystem.com
-ezodn.com
-go.ezodn.com
-powerad.ai
-trk.justanswer.com
-dotmetrics.net
-uk-script.dotmetrics.net
-onebauer.media
-cdn.onebauer.media
-privacy-mgmt.com
-cdn.privacy-mgmt.com
-
+127.0.0.1 cdn.engine.spotscenered.info
+127.0.0.1 a.exdynsrv.com
+127.0.0.1 cdn.izooto.com
+127.0.0.1 px-cdn.net
+127.0.0.1 px-cloud.net
+127.0.0.1 pxchk.net
+127.0.0.1 vo.msecnd.net
+127.0.0.1 a.omappapi.com
+127.0.0.1 adbserver.doceree.com
+127.0.0.1 adpushup.com
+127.0.0.1 ads-api.twitter.com
+127.0.0.1 ads.holid.io
+127.0.0.1 analyti.uber.space
+127.0.0.1 analytics.console.aws.a2z.com
+127.0.0.1 analytics.edgekey.net
+127.0.0.1 analytics.vadian.net
+127.0.0.1 analytics.write.as
+127.0.0.1 api-js.mixpanel.com
+127.0.0.1 api.airbrake.io
+127.0.0.1 api.appcues.net
+127.0.0.1 api.b2c.com
+127.0.0.1 api.btloader.com
+127.0.0.1 api2.branch.io
+127.0.0.1 backfills.ph.affinity.com
+127.0.0.1 bid.glass
+127.0.0.1 btloader.com
+127.0.0.1 buysellads.net
+127.0.0.1 by2.uservoice.com
+127.0.0.1 cdn-magiclinks.trackonomics.net
+127.0.0.1 cdn.insurads.com
+127.0.0.1 cdn.intergient.com
+127.0.0.1 cdn.paddle.com
+127.0.0.1 cdn.playwire.com
+127.0.0.1 cdn.snigelweb.com
+127.0.0.1 cdn.tech429.com
+127.0.0.1 cdn.usefathom.com
+127.0.0.1 client.px-cloud.net
+127.0.0.1 ev.kck.st
+127.0.0.1 fast.appcues.com
+127.0.0.1 gc.zgo.at
+127.0.0.1 geo-eu.snigelweb.com
+127.0.0.1 geo-us.snigelweb.com
+127.0.0.1 ip.prvtx.net
+127.0.0.1 metrics.readme.io
+127.0.0.1 pixel-static.spotify.com
+127.0.0.1 pixel.ampry.com
+127.0.0.1 pixel.spotify.com
+127.0.0.1 plus.addkt.com
+127.0.0.1 prebid-server-production.herokuapp.com
+127.0.0.1 programmatic.doceree.com
+127.0.0.1 protected-by.clarium.io
+127.0.0.1 scripts.simpleanalyticscdn.com
+127.0.0.1 server.ethicalads.io
+127.0.0.1 smetrics.cnn.com
+127.0.0.1 snigelweb-com.videoplayerhub.com
+127.0.0.1 stats.framasoft.org
+127.0.0.1 stats.kde.org
+127.0.0.1 stats.libretexts.org
+127.0.0.1 stats.nextcloud.com
+127.0.0.1 trackjs.com
+127.0.0.1 vortex.data.msn.com
+127.0.0.1 web.vortex.data.microsoft.com
+127.0.0.1 web.vortex.data.msn.com
+127.0.0.1 www.googleoptimize.com
+127.0.0.1 www.medtargetsystem.com
+127.0.0.1 ezodn.com
+127.0.0.1 go.ezodn.com
+127.0.0.1 powerad.ai
+127.0.0.1 trk.justanswer.com
+127.0.0.1 dotmetrics.net
+127.0.0.1 uk-script.dotmetrics.net
+127.0.0.1 onebauer.media
+127.0.0.1 cdn.onebauer.media
+127.0.0.1 privacy-mgmt.com
+127.0.0.1 cdn.privacy-mgmt.com
