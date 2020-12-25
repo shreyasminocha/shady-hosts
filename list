@@ -73,3 +73,9 @@
 127.0.0.1 cdn.onebauer.media
 127.0.0.1 privacy-mgmt.com
 127.0.0.1 cdn.privacy-mgmt.com
+
+# www.qatarairways.com
+127.0.0.1 smetrics.qatarairways.com
+127.0.0.1 qatarairways.tt.omtrdc.net
+127.0.0.1 api.boxever.com
+
