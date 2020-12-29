@@ -131,3 +131,13 @@
 
 # www.osano.com
 127.0.0.1 snap.licdn.com
+
+# www.litcharts.com
+127.0.0.1 cdn.rollbar.com
+127.0.0.1 api.rollbar.com
+127.0.0.1 quantcast.mgr.consensu.org
+
+# www.quizexpo.com
+127.0.0.1 demand.supply
+127.0.0.1 live.demand.supply
+
