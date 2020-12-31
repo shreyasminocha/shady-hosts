@@ -95,6 +95,7 @@
 127.0.0.1 static.cloudflareinsights.com
 127.0.0.1 t.stripe.com
 127.0.0.1 tag.rmp.rakuten.com
+127.0.0.1 trapsaminohut.com
 127.0.0.1 trk.justanswer.com
 127.0.0.1 u.o0bc.com
 127.0.0.1 uk-script.dotmetrics.net
@@ -140,4 +141,19 @@
 # www.quizexpo.com
 127.0.0.1 demand.supply
 127.0.0.1 live.demand.supply
+
+# america.aljazeera.com
+127.0.0.1 cdn.gigya.com
+
+# www.cplusplus.com
+127.0.0.1 cloud.setupad.com
+127.0.0.1 node.setupad.com
+127.0.0.1 prebid-stag.setupad.net
+127.0.0.1 vendorlist.consensu.org
+
+# www.jstor.org
+127.0.0.1 ja.jstor.org
+
+# brilliant.org
+127.0.0.1 in.brilliant.org
 
