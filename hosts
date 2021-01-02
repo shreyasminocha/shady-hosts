@@ -1,22 +1,15 @@
 0.0.0.0 cdn.engine.spotscenered.info
 0.0.0.0 a.exdynsrv.com
 0.0.0.0 cdn.izooto.com
-0.0.0.0 px-cdn.net
-0.0.0.0 px-cloud.net
-0.0.0.0 pxchk.net
-0.0.0.0 vo.msecnd.net
 0.0.0.0 a.omappapi.com
 0.0.0.0 adbserver.doceree.com
 0.0.0.0 adpushup.com
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 ads.holid.io
 0.0.0.0 analyti.uber.space
-0.0.0.0 analytics.console.aws.a2z.com
-0.0.0.0 analytics.edgekey.net
 0.0.0.0 analytics.vadian.net
 0.0.0.0 analytics.write.as
 0.0.0.0 api-2-0.spot.im
-0.0.0.0 api-gw-plike.spot.im
 0.0.0.0 api-js.mixpanel.com
 0.0.0.0 api.airbrake.io
 0.0.0.0 api.appcues.net
@@ -26,7 +19,6 @@
 0.0.0.0 backfills.ph.affinity.com
 0.0.0.0 bid.glass
 0.0.0.0 btloader.com
-0.0.0.0 buysellads.net
 0.0.0.0 by2.uservoice.com
 0.0.0.0 cdn-magiclinks.trackonomics.net
 0.0.0.0 cdn.insurads.com
@@ -34,7 +26,6 @@
 0.0.0.0 cdn.paddle.com
 0.0.0.0 cdn.playwire.com
 0.0.0.0 cdn.snigelweb.com
-0.0.0.0 cdn.tech429.com
 0.0.0.0 cdn.usefathom.com
 0.0.0.0 client.px-cloud.net
 0.0.0.0 ev.kck.st
@@ -60,7 +51,6 @@
 0.0.0.0 stats.libretexts.org
 0.0.0.0 stats.nextcloud.com
 0.0.0.0 trackjs.com
-0.0.0.0 vortex.data.msn.com
 0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 web.vortex.data.msn.com
 0.0.0.0 www.googleoptimize.com
@@ -73,7 +63,6 @@
 0.0.0.0 uk-script.dotmetrics.net
 0.0.0.0 onebauer.media
 0.0.0.0 cdn.onebauer.media
-0.0.0.0 privacy-mgmt.com
 0.0.0.0 cdn.privacy-mgmt.com
 0.0.0.0 8936704.fls.doubleclick.net
 0.0.0.0 a.et.nytimes.com
@@ -86,7 +75,6 @@
 0.0.0.0 api.boxever.com
 0.0.0.0 arcpublishing.com
 0.0.0.0 ascendeum-d.openx.net
-0.0.0.0 sc.omtrdc.net
 0.0.0.0 scripttags.justuno.com
 0.0.0.0 secure-sts-prod.imrworldwide.com
 0.0.0.0 shynet.rmrm.io
