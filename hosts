@@ -12,7 +12,6 @@
 0.0.0.0 api-2-0.spot.im
 0.0.0.0 api-js.mixpanel.com
 0.0.0.0 api.airbrake.io
-0.0.0.0 api.appcues.net
 0.0.0.0 api.b2c.com
 0.0.0.0 api.btloader.com
 0.0.0.0 api2.branch.io
@@ -60,8 +59,6 @@
 0.0.0.0 trk.justanswer.com
 0.0.0.0 dotmetrics.net
 0.0.0.0 uk-script.dotmetrics.net
-0.0.0.0 onebauer.media
-0.0.0.0 cdn.onebauer.media
 0.0.0.0 cdn.privacy-mgmt.com
 0.0.0.0 8936704.fls.doubleclick.net
 0.0.0.0 a.et.nytimes.com
@@ -72,13 +69,11 @@
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 amazonwebservices.d2.sc.omtrdc.net
 0.0.0.0 api.boxever.com
-0.0.0.0 arcpublishing.com
 0.0.0.0 ascendeum-d.openx.net
 0.0.0.0 scripttags.justuno.com
 0.0.0.0 secure-sts-prod.imrworldwide.com
 0.0.0.0 shynet.rmrm.io
 0.0.0.0 snigelweb.com
-0.0.0.0 ssl.widgets.webengage.com
 0.0.0.0 static.addtoany.com
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 t.stripe.com
@@ -90,15 +85,9 @@
 0.0.0.0 uptime.com
 0.0.0.0 us-east-1.prod.pw.analytics.console.aws.a2z.com
 0.0.0.0 userreport.com
-0.0.0.0 uservoice.com
 0.0.0.0 vitals.vercel-insights.com
 0.0.0.0 vms.boldchat.com
 0.0.0.0 vt.myvisualiq.net
-0.0.0.0 websites.cdn.getfeedback.com
-0.0.0.0 widget.intercom.io
-0.0.0.0 widget.uservoice.com
-0.0.0.0 widgets.webengage.com
-0.0.0.0 wmff.warnermediacdn.com
 0.0.0.0 www.datadoghq-browser-agent.com
 0.0.0.0 www.fastly-insights.com
 0.0.0.0 www.increaserev.com
