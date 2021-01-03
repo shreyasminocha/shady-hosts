@@ -168,3 +168,123 @@
 # jsfiddle.net
 0.0.0.0 crbcdn.jsfiddle.net
 0.0.0.0 crbsrv.jsfiddle.net
+
+# htwins.net
+0.0.0.0 queue.simpleanalyticscdn.com
+
+#
+# From https://github.com/prebid/Prebid.js
+#
+
+0.0.0.0 bidder.7xbid.com
+0.0.0.0 ads.ad4game.com
+0.0.0.0 bidder.rtk.io
+0.0.0.0 sync.rtk.io
+0.0.0.0 bidder.ablida.net
+# 0.0.0.0 mp.4dex.io
+# 0.0.0.0 script.4dex.io
+0.0.0.0 inv-nets.admixer.net
+0.0.0.0 servedbyadbutler.com
+0.0.0.0 stat.adfinity.pro
+0.0.0.0 s2.adform.net
+0.0.0.0 adx.adform.net
+0.0.0.0 api-test.scaleout.jp
+0.0.0.0 d.socdm.com
+0.0.0.0 try.engine.adglare.net
+0.0.0.0 user-sync.adhese.com
+0.0.0.0 tag.adkernel.com
+0.0.0.0 api.publishers.adlive.io
+0.0.0.0 pub.admanmedia.com
+0.0.0.0 ads4.admatic.com.tr
+0.0.0.0 prebid.admedia.com
+0.0.0.0 n.ads3-adnow.com
+0.0.0.0 delivery.adnuntius.com
+0.0.0.0 myao.adocean.pl
+0.0.0.0 dsp.adotmob.com
+0.0.0.0 adserver.adotmob.com
+0.0.0.0 a4p.adpartner.pro
+0.0.0.0 rtb.adpone.com
+0.0.0.0 eu-ads.adpone.com
+0.0.0.0 delta.adprime.com
+0.0.0.0 ssp.adrelevantis.com
+0.0.0.0 rtb.com.ru
+0.0.0.0 ghb.console.adtarget.com.tr
+0.0.0.0 ghb.adtelligent.com
+0.0.0.0 ghb1.adtelligent.com
+0.0.0.0 ghb2.adtelligent.com
+# 0.0.0.0 player.adtelligent.com
+0.0.0.0 ghb.hb.appaloosa.media
+0.0.0.0 ghb.ads.152media.com
+0.0.0.0 ghb.hbmp.mediafuse.com
+0.0.0.0 rtb.d.adup-tech.com
+0.0.0.0 nep.advangelists.com
+0.0.0.0 ssp.advenuemedia.co.uk
+0.0.0.0 api.advertly.com
+0.0.0.0 analytics.wmgroup.us
+0.0.0.0 rtb.adwmg.com
+0.0.0.0 hbarxs.adxcg.net
+0.0.0.0 hbps.adxcg.net
+0.0.0.0 adxpremium.services
+0.0.0.0 hb-api.omnitagjs.com
+0.0.0.0 hb-api-fra01.omnitagjs.com
+0.0.0.0 ad.as.amanad.adtdp.com
+0.0.0.0 prebid.a-mo.net
+0.0.0.0 1x1.a-mo.net
+0.0.0.0 player.aniview.com
+0.0.0.0 gov.aniview.com
+# todo: aolbid
+0.0.0.0 useast.quantumdex.io
+0.0.0.0 sync.quantumdex.io
+0.0.0.0 prebid-analytics.c.appier.net
+0.0.0.0 ad2.apx.appier.net
+0.0.0.0 ad2.apx.appier.net
+0.0.0.0 ad-jp.apx.appier.net
+0.0.0.0 ib.adnxs.com
+0.0.0.0 mock-bapi.userreport.com
+0.0.0.0 bapi.userreport.com
+0.0.0.0 ssp.astraone.io
+0.0.0.0 d.audiencerun.com
+0.0.0.0 rtb2.automatad.com
+0.0.0.0 ads.avct.cloud
+0.0.0.0 sync.bfmio.com
+# todo: beachfrontdisplay
+0.0.0.0 ads.betweendigital.com
+# todo: bidfluence
+0.0.0.0 bid.glass
+0.0.0.0 service.bidlab.ai
+0.0.0.0 exchange.bidphysics.com
+0.0.0.0 us-e-node1.bizzclick.com
+0.0.0.0 dev.pbs.bluebillywig.com
+0.0.0.0 pbs.bluebillywig.com
+0.0.0.0 ssp.videowalldirect.com
+0.0.0.0 cs.videowalldirect.com
+0.0.0.0 prebid.scupio.com
+0.0.0.0 brightcombid.marphezis.com
+0.0.0.0 console.brightmountainmedia.com
+0.0.0.0 px.britepool.com
+0.0.0.0 prebid.bksn.se
+0.0.0.0 exchange.buzzoola.com
+0.0.0.0 tube.buzzoola.com
+0.0.0.0 prebid.byplay.net
+0.0.0.0 delivery.clickonometrics.pl
+# 0.0.0.0 h.cedatoplayer.com
+0.0.0.0 bidder.cleanmediaads.com
+0.0.0.0 ad.holmesmind.com
+0.0.0.0 www.clicktripz.com
+0.0.0.0 appspb.cointraffic.io
+0.0.0.0 request.czilladx.com
+0.0.0.0 publishers.motionspots.com
+0.0.0.0 ade.clmbtech.com
+# 0.0.0.0 colossusssp.com
+0.0.0.0 bids.concert.io
+# 0.0.0.0 cdn.concert.io
+0.0.0.0 i.connectad.io
+0.0.0.0 e.serverbid.com
+# 0.0.0.0 tech.convergd.com
+0.0.0.0 web.hb.ad.cpe.dotomi.com
+0.0.0.0 bid.cosmoshq.com
+0.0.0.0 sync.cosmoshq.com
+0.0.0.0 dev.server.cpmstar.com
+0.0.0.0 staging.server.cpmstar.com
+0.0.0.0 server.cpmstar.com
+0.0.0.0 gacraft.jp
