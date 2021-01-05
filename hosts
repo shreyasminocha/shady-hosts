@@ -104,10 +104,6 @@
 # www.osano.com
 0.0.0.0 snap.licdn.com
 
-# www.litcharts.com
-0.0.0.0 cdn.rollbar.com
-0.0.0.0 api.rollbar.com
-
 # www.quizexpo.com
 0.0.0.0 demand.supply
 0.0.0.0 live.demand.supply
