@@ -1,6 +1,6 @@
 #!/usr/bin/env fish
 
-ghosts -o -m ./hosts | while read rule
+ghosts -o -m $argv[1] | while read rule
 	set host (echo $rule | cut -d' ' -f 2)
 	if dig +short "$host" | xargs -n1 test -z
 		echo "$host didn't resolve"
