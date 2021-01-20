@@ -179,6 +179,12 @@
 # 65521.org
 0.0.0.0 stats.0www.org
 
+# dotcs.me
+0.0.0.0 analytics.home.dotcs.me
+
+# speedtest.net.uk
+0.0.0.0 stats.custserv.net
+
 #
 # From https://github.com/prebid/Prebid.js
 #
