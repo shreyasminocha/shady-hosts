@@ -73,6 +73,7 @@
 0.0.0.0 scripttags.justuno.com
 0.0.0.0 secure-sts-prod.imrworldwide.com
 0.0.0.0 shynet.rmrm.io
+0.0.0.0 smetrics.elsevier.com
 0.0.0.0 snigelweb.com
 0.0.0.0 static.addtoany.com
 0.0.0.0 static.cloudflareinsights.com
@@ -184,6 +185,18 @@
 
 # speedtest.net.uk
 0.0.0.0 stats.custserv.net
+
+# www.openstreetmap.org
+0.0.0.0 piwik.openstreetmap.org
+
+# www.babbel.com
+0.0.0.0 marketing-tracker.babbel.com
+
+# www.aparnaconstructions.com
+0.0.0.0 hspx.hotstar.com
+
+# prepaid.t-mobile.com
+0.0.0.0 lptag.liveperson.net
 
 #
 # From https://github.com/prebid/Prebid.js
