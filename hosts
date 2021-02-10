@@ -373,3 +373,9 @@
 
 # amiunique.org
 0.0.0.0 analytics.amiunique.org
+
+# blockchair.com
+0.0.0.0 stats.blockchair.com
+
+# greenhost.net
+0.0.0.0 livestats.greenhost.nl
