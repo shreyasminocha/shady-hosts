@@ -415,3 +415,24 @@
 
 # remix.ethereum.org
 0.0.0.0 matomo.ethereum.org
+
+# bazaarvoice.com
+0.0.0.0 analytics-static.ugc.bazaarvoice.com
+0.0.0.0 apps.bazaarvoice.com
+0.0.0.0 apps.nexus.bazaarvoice.com
+0.0.0.0 bv-analytics-js-prod.s3.amazonaws.com
+0.0.0.0 bv-analytics-js-qa.s3.amazonaws.com
+0.0.0.0 magpie-a.bazaarvoice.com
+0.0.0.0 magpie.bazaarvoice.com
+0.0.0.0 magpie-static.ugc.bazaarvoice.com
+0.0.0.0 magpie-stg-a.bazaarvoice.com
+0.0.0.0 magpie-stg.bazaarvoice.com
+0.0.0.0 network-a.bazaarvoice.com
+0.0.0.0 network.bazaarvoice.com
+0.0.0.0 network-eu-a.bazaarvoice.com
+0.0.0.0 network-eu.bazaarvoice.com
+0.0.0.0 network-eu-stg-a.bazaarvoice.com
+0.0.0.0 network-eu-stg.bazaarvoice.com
+0.0.0.0 network-stg-a.bazaarvoice.com
+0.0.0.0 network-stg.bazaarvoice.com
+0.0.0.0 schema.mag.bazaarvoice.com
