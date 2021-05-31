@@ -426,3 +426,7 @@
 
 # dot.gov.in
 0.0.0.0 analytics.wrc.nic.in
+
+# qz.com
+0.0.0.0 player.mediafuse.com
+0.0.0.0 hb.mediafuse.com
