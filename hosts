@@ -430,3 +430,9 @@
 # qz.com
 0.0.0.0 player.mediafuse.com
 0.0.0.0 hb.mediafuse.com
+
+# www.dqindia.com
+0.0.0.0 qt.cyberads.io
+
+# duckduckgo.com
+0.0.0.0 improving.duckduckgo.com
